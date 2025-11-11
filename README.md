@@ -30,7 +30,6 @@ O objetivo é fazer o bichinho **viver até os 50 anos** sem deixá-lo morrer de
 | **Vontade de ir ao banheiro** | Alimentar aumenta | Morre se chegar a 100 |
 | **Sujeira** | Brincar e banheiro aumentam | Morre se chegar a 100 |
 
----
 
-## 🧩 Estrutura do Projeto
+
 
